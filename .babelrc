@@ -1,0 +1,9 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      { "useBuiltIns": "entry" }
+    ]
+  ],
+  "plugins": ["angularjs-annotate", "lodash"]
+}
